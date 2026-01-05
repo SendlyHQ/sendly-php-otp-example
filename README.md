@@ -144,7 +144,7 @@ if ($result->status === 'verified') {
 
 ## Learn More
 
-- [Sendly PHP SDK](https://github.com/sendly/sendly-php)
+- [Sendly PHP SDK](https://github.com/SendlyHQ/sendly-php)
 - [Sendly Documentation](https://sendly.live/docs)
 - [Sendly API Reference](https://sendly.live/docs/api)
 
