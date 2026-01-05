@@ -1,3 +1,8 @@
+<p align="center">
+  <img src=".github/header.svg" alt="Sendly PHP OTP Example" />
+</p>
+
+
 # Sendly PHP OTP Verification Example
 
 A complete phone number verification example using the Sendly PHP SDK.
@@ -140,8 +145,8 @@ if ($result->status === 'verified') {
 ## Learn More
 
 - [Sendly PHP SDK](https://github.com/sendly/sendly-php)
-- [Sendly Documentation](https://sendly.so/docs)
-- [Sendly API Reference](https://sendly.so/docs/api)
+- [Sendly Documentation](https://sendly.live/docs)
+- [Sendly API Reference](https://sendly.live/docs/api)
 
 ## License
 
