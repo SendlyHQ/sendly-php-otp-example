@@ -1,0 +1,7 @@
+{
+    "name": "sendly-examples/php-otp-example",
+    "require": {
+        "php": ">=8.1",
+        "sendly/sendly-php": "^3.0"
+    }
+}
